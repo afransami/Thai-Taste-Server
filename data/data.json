@@ -1,6 +1,8 @@
 [
   {
-    "id": 1,
+    "recipes": [
+    {
+      "id": 1,
     "chefName": "Somsri Wongthanon",
     "chefPhoto": "https://i.ibb.co/6R5DvSS/chef-1.jpg",    
     "bio": "Somsri Wongthanon is a renowned Thai chef with over 20 years of experience in traditional Thai cuisine. Her passion for cooking has led her to create unique and flavorful dishes that have been praised by food critics and enthusiasts alike.",
@@ -8,7 +10,7 @@
     "numRecipes": 3,
     "price": 14.99,
     "recipePhoto": "https://i.ibb.co/q5MZ9Mn/food-1.jpg",
-    "recipes": [
+    "recipe": [
       {
         "name": "Pad Thai",
         "ingredients": [
@@ -59,7 +61,7 @@
     "numRecipes": 3,
     "price": 14.99,
     "recipePhoto": "https://i.ibb.co/sswv6vY/food-2.jpg",
-    "recipes": [
+    "recipe": [
       {
         "name": "Pad Thai",
         "ingredients": [
@@ -108,7 +110,7 @@
     "numRecipes": 3,
     "price": 14.99,
     "recipePhoto": "https://i.ibb.co/tKbvdvK/food-3.jpg",
-    "recipes": [
+    "recipe": [
       {
         "name": "Pad Thai",
         "ingredients": [
@@ -159,7 +161,7 @@
     "numRecipes": 3,
     "price": 14.99,
     "recipePhoto": "https://i.ibb.co/RzM3Gh2/food-4.jpg",
-    "recipes": [
+    "recipe": [
       {
         "name": "Pad Thai",
         "ingredients": [
@@ -209,7 +211,7 @@
     "numRecipes": 3,
     "price": 14.99,
     "recipePhoto": "https://i.ibb.co/fncFYR2/food-5.jpg",
-    "recipes": [
+    "recipe": [
       {
         "name": "Pad Thai",
         "ingredients": [
@@ -259,7 +261,7 @@
     "numRecipes": 3,
     "price": 14.99,
     "recipePhoto": "https://i.ibb.co/V9MtHbF/food-6.jpg",
-    "recipes": [
+    "recipe": [
       {
         "name": "Pad Thai",
         "ingredients": [
@@ -300,5 +302,7 @@
     ]
       
   }
+]
+}
 ]
     
