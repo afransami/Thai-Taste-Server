@@ -2,13 +2,12 @@
   {
     "recipes": [
     {
-      "id": 1,
-      "name": "Pad Thai",
+      "id": 1,      
       "chefName": "Somsri Wongthanon",
       "recipePhoto": "https://i.ibb.co/q5MZ9Mn/food-1.jpg",
       "chefPhoto": "https://i.ibb.co/6R5DvSS/chef-1.jpg",
 
-        "ingredients": [
+        "recipeName": [
           "rice noodles",
           "chicken",
           "bean sprouts",
@@ -20,13 +19,12 @@
     },
 
     {
-      "id": 2,
-      "name": "Pad Thai",
+      "id": 2,      
       "chefName": "Somsri Wongthanon",
       "recipePhoto": "https://i.ibb.co/q5MZ9Mn/food-1.jpg",
       "chefPhoto": "https://i.ibb.co/6R5DvSS/chef-1.jpg",
 
-        "ingredients": [
+        "recipeName": [
           "rice noodles",
           "chicken",
           "bean sprouts",
@@ -37,13 +35,12 @@
       "numRecipes": 3
     },
     {
-      "id": 3,
-      "name": "Pad Thai",
+      "id": 3,     
       "chefName": "Somsri Wongthanon",
       "recipePhoto": "https://i.ibb.co/q5MZ9Mn/food-1.jpg",
       "chefPhoto": "https://i.ibb.co/6R5DvSS/chef-1.jpg",
 
-        "ingredients": [
+        "recipeName": [
           "rice noodles",
           "chicken",
           "bean sprouts",
@@ -54,13 +51,12 @@
       "numRecipes": 3
     },
     {
-      "id": 4,
-      "name": "Pad Thai",
+      "id": 4,     
       "chefName": "Somsri Wongthanon",
       "recipePhoto": "https://i.ibb.co/q5MZ9Mn/food-1.jpg",
       "chefPhoto": "https://i.ibb.co/6R5DvSS/chef-1.jpg",
 
-        "ingredients": [
+        "recipeName": [
           "rice noodles",
           "chicken",
           "bean sprouts",
@@ -71,13 +67,12 @@
       "numRecipes": 3
     },
     {
-      "id": 5,
-      "name": "Pad Thai",
+      "id": 5,     
       "chefName": "Somsri Wongthanon",
       "recipePhoto": "https://i.ibb.co/q5MZ9Mn/food-1.jpg",
       "chefPhoto": "https://i.ibb.co/6R5DvSS/chef-1.jpg",
 
-        "ingredients": [
+        "recipeName": [
           "rice noodles",
           "chicken",
           "bean sprouts",
@@ -88,13 +83,12 @@
       "numRecipes": 3
     },
     {
-      "id": 6,
-      "name": "Pad Thai",
+      "id": 6,     
       "chefName": "Somsri Wongthanon",
       "recipePhoto": "https://i.ibb.co/q5MZ9Mn/food-1.jpg",
       "chefPhoto": "https://i.ibb.co/6R5DvSS/chef-1.jpg",
 
-        "ingredients": [
+        "recipeName": [
           "rice noodles",
           "chicken",
           "bean sprouts",
