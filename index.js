@@ -30,16 +30,16 @@ app.get('/data/:id', (req, res)=>{
 
 
 
-// app.get ('/data/:id', (req, res)=>{
-//     const id = parseInt(req.params.id);
-//     console.log(id);   
-//     if(id === 0 ){
-//         res.send (data)
-//     } else{
-//         const getData = data.filter(r=> parseInt(r.id) === id)    
-//         res.send(getData);        
-//     }    
-// })
+app.get ('/data/:id', (req, res)=>{
+    const id = parseInt(req.params.id);
+    console.log(id);   
+    if(id === 0 ){
+        res.send (data)
+    } else{
+        const getData = data.filter(r=> parseInt(r.id) === id)    
+        res.send(getData);        
+    }    
+})
 
 app.get ('/singleRecipe/:id', (req, res)=>{
     const id = parseInt(req.params.id);
