@@ -8,10 +8,12 @@
       "yearOfExperience": 20,
       "numRecipes": 3,
       "price": 14.99,
+      "like": 300,      
       "recipePhoto": "https://i.ibb.co/q5MZ9Mn/food-1.jpg",
       "recipe": [
         {
           "name": "Pad Thai",
+          "rating": 4.5,
           "ingredients": [
             "rice noodles",
             "chicken",
@@ -19,11 +21,11 @@
             "tamarind paste",
             "peanuts"
           ],
-          "method": "1. Soak the rice noodles in warm water for 15 minutes until soft. 2. In a wok or large frying pan, stir-fry the chicken until cooked through. 3. Add the soaked noodles and stir-fry for 1-2 minutes. 4. Add the bean sprouts and stir-fry for another minute. 5. Mix the tamarind paste with some water and add it to the pan, stirring until well combined. 6. Garnish with peanuts and serve hot.",
-          "rating": 4.5
+          "method": "1. Soak the rice noodles in warm water for 15 minutes until soft. 2. In a wok or large frying pan, stir-fry the chicken until cooked through. 3. Add the soaked noodles and stir-fry for 1-2 minutes. 4. Add the bean sprouts and stir-fry for another minute. 5. Mix the tamarind paste with some water and add it to the pan, stirring until well combined. 6. Garnish with peanuts and serve hot."          
         },
         {
           "name": "Tom Yum Soup",
+          "rating": 4.5,
           "ingredients": [
             "shrimp",
             "lemongrass",
@@ -31,11 +33,11 @@
             "kaffir lime leaves",
             "chili peppers"
           ],
-          "method": "1. Bring 2 cups of water to a boil in a pot. 2. Add the lemongrass, galangal, and kaffir lime leaves and let simmer for 5 minutes. 3. Add the shrimp and chili peppers and let cook for 2-3 minutes. 4. Serve hot.",
-          "rating": 4.2
+          "method": "1. Bring 2 cups of water to a boil in a pot. 2. Add the lemongrass, galangal, and kaffir lime leaves and let simmer for 5 minutes. 3. Add the shrimp and chili peppers and let cook for 2-3 minutes. 4. Serve hot."
         },
         {
           "name": "Green Curry",
+          "rating": 4.5,
           "ingredients": [
             "chicken",
             "green curry paste",
@@ -43,8 +45,7 @@
             "bamboo shoots",
             "Thai basil"
           ],
-          "method": "1. In a wok or large frying pan, stir-fry the chicken until cooked through. 2. Add the green curry paste and stir-fry for another minute. 3. Pour in the coconut milk and let simmer for 5 minutes. 4. Add the bamboo shoots and Thai basil and let simmer for another 2-3 minutes. 5. Serve hot with rice.",
-          "rating": 4.7
+          "method": "1. In a wok or large frying pan, stir-fry the chicken until cooked through. 2. Add the green curry paste and stir-fry for another minute. 3. Pour in the coconut milk and let simmer for 5 minutes. 4. Add the bamboo shoots and Thai basil and let simmer for another 2-3 minutes. 5. Serve hot with rice."
         }
       ]
     },
@@ -52,15 +53,17 @@
     {
       "id": 2,
       "chefName": "Somsri wahington",
-      "chefPhoto": "https://i.ibb.co/6R5DvSS/chef-1.jpg",
+      "chefPhoto": "https://i.ibb.co/MRBR3VB/chef-4.jpg",
       "bio": "Somsri Wongthanon is a renowned Thai chef with over 20 years of experience in traditional Thai cuisine. Her passion for cooking has led her to create unique and flavorful dishes that have been praised by food critics and enthusiasts alike.",
       "yearOfExperience": 20,
       "numRecipes": 3,
       "price": 14.99,
+      "like": 300,      
       "recipePhoto": "https://i.ibb.co/q5MZ9Mn/food-1.jpg",
       "recipe": [
         {
           "name": "Pad Thai",
+          "rating": 4.5,
           "ingredients": [
             "rice noodles",
             "chicken",
@@ -68,11 +71,11 @@
             "tamarind paste",
             "peanuts"
           ],
-          "method": "1. Soak the rice noodles in warm water for 15 minutes until soft. 2. In a wok or large frying pan, stir-fry the chicken until cooked through. 3. Add the soaked noodles and stir-fry for 1-2 minutes. 4. Add the bean sprouts and stir-fry for another minute. 5. Mix the tamarind paste with some water and add it to the pan, stirring until well combined. 6. Garnish with peanuts and serve hot.",
-          "rating": 4.5
+          "method": "1. Soak the rice noodles in warm water for 15 minutes until soft. 2. In a wok or large frying pan, stir-fry the chicken until cooked through. 3. Add the soaked noodles and stir-fry for 1-2 minutes. 4. Add the bean sprouts and stir-fry for another minute. 5. Mix the tamarind paste with some water and add it to the pan, stirring until well combined. 6. Garnish with peanuts and serve hot."
         },
         {
           "name": "Tom Yum Soup",
+          "rating": 4.5,
           "ingredients": [
             "shrimp",
             "lemongrass",
@@ -80,11 +83,11 @@
             "kaffir lime leaves",
             "chili peppers"
           ],
-          "method": "1. Bring 2 cups of water to a boil in a pot. 2. Add the lemongrass, galangal, and kaffir lime leaves and let simmer for 5 minutes. 3. Add the shrimp and chili peppers and let cook for 2-3 minutes. 4. Serve hot.",
-          "rating": 4.2
+          "method": "1. Bring 2 cups of water to a boil in a pot. 2. Add the lemongrass, galangal, and kaffir lime leaves and let simmer for 5 minutes. 3. Add the shrimp and chili peppers and let cook for 2-3 minutes. 4. Serve hot."
         },
         {
           "name": "Green Curry",
+          "rating": 4.5,
           "ingredients": [
             "chicken",
             "green curry paste",
@@ -92,8 +95,7 @@
             "bamboo shoots",
             "Thai basil"
           ],
-          "method": "1. In a wok or large frying pan, stir-fry the chicken until cooked through. 2. Add the green curry paste and stir-fry for another minute. 3. Pour in the coconut milk and let simmer for 5 minutes. 4. Add the bamboo shoots and Thai basil and let simmer for another 2-3 minutes. 5. Serve hot with rice.",
-          "rating": 4.7
+          "method": "1. In a wok or large frying pan, stir-fry the chicken until cooked through. 2. Add the green curry paste and stir-fry for another minute. 3. Pour in the coconut milk and let simmer for 5 minutes. 4. Add the bamboo shoots and Thai basil and let simmer for another 2-3 minutes. 5. Serve hot with rice."
         }
       ]
     },
@@ -101,15 +103,17 @@
     {
       "id": 3,
       "chefName": "Disney Somsri",
-      "chefPhoto": "https://i.ibb.co/6R5DvSS/chef-1.jpg",
+      "chefPhoto": "https://i.ibb.co/pnPqT77/chef-3.jpg",
       "bio": "Disney Somsri is a renowned Thai chef with over 20 years of experience in traditional Thai cuisine. Her passion for cooking has led her to create unique and flavorful dishes that have been praised by food critics and enthusiasts alike.",
       "yearOfExperience": 20,
       "numRecipes": 3,
       "price": 14.99,
+      "like": 300,
       "recipePhoto": "https://i.ibb.co/q5MZ9Mn/food-1.jpg",
       "recipe": [
         {
           "name": "Pad Thai",
+          "rating": 4.5,
           "ingredients": [
             "rice noodles",
             "chicken",
@@ -117,11 +121,11 @@
             "tamarind paste",
             "peanuts"
           ],
-          "method": "1. Soak the rice noodles in warm water for 15 minutes until soft. 2. In a wok or large frying pan, stir-fry the chicken until cooked through. 3. Add the soaked noodles and stir-fry for 1-2 minutes. 4. Add the bean sprouts and stir-fry for another minute. 5. Mix the tamarind paste with some water and add it to the pan, stirring until well combined. 6. Garnish with peanuts and serve hot.",
-          "rating": 4.5
+          "method": "1. Soak the rice noodles in warm water for 15 minutes until soft. 2. In a wok or large frying pan, stir-fry the chicken until cooked through. 3. Add the soaked noodles and stir-fry for 1-2 minutes. 4. Add the bean sprouts and stir-fry for another minute. 5. Mix the tamarind paste with some water and add it to the pan, stirring until well combined. 6. Garnish with peanuts and serve hot."
         },
         {
           "name": "Tom Yum Soup",
+          "rating": 4.5,
           "ingredients": [
             "shrimp",
             "lemongrass",
@@ -129,11 +133,11 @@
             "kaffir lime leaves",
             "chili peppers"
           ],
-          "method": "1. Bring 2 cups of water to a boil in a pot. 2. Add the lemongrass, galangal, and kaffir lime leaves and let simmer for 5 minutes. 3. Add the shrimp and chili peppers and let cook for 2-3 minutes. 4. Serve hot.",
-          "rating": 4.2
+          "method": "1. Bring 2 cups of water to a boil in a pot. 2. Add the lemongrass, galangal, and kaffir lime leaves and let simmer for 5 minutes. 3. Add the shrimp and chili peppers and let cook for 2-3 minutes. 4. Serve hot."
         },
         {
           "name": "Green Curry",
+          "rating": 4.5,
           "ingredients": [
             "chicken",
             "green curry paste",
@@ -141,8 +145,7 @@
             "bamboo shoots",
             "Thai basil"
           ],
-          "method": "1. In a wok or large frying pan, stir-fry the chicken until cooked through. 2. Add the green curry paste and stir-fry for another minute. 3. Pour in the coconut milk and let simmer for 5 minutes. 4. Add the bamboo shoots and Thai basil and let simmer for another 2-3 minutes. 5. Serve hot with rice.",
-          "rating": 4.7
+          "method": "1. In a wok or large frying pan, stir-fry the chicken until cooked through. 2. Add the green curry paste and stir-fry for another minute. 3. Pour in the coconut milk and let simmer for 5 minutes. 4. Add the bamboo shoots and Thai basil and let simmer for another 2-3 minutes. 5. Serve hot with rice."
         }
       ]
     },
@@ -150,15 +153,17 @@
     {
       "id": 4,
       "chefName": "Jhankar Wongthanon",
-      "chefPhoto": "https://i.ibb.co/6R5DvSS/chef-1.jpg",
+      "chefPhoto": "https://i.ibb.co/8zNyd96/chef-5.jpg",
       "bio": "Jhankar Wongthanon is a renowned Thai chef with over 20 years of experience in traditional Thai cuisine. Her passion for cooking has led her to create unique and flavorful dishes that have been praised by food critics and enthusiasts alike.",
       "yearOfExperience": 20,
       "numRecipes": 3,
       "price": 14.99,
+      "like": 300,
       "recipePhoto": "https://i.ibb.co/q5MZ9Mn/food-1.jpg",
       "recipe": [
         {
           "name": "Pad Thai",
+          "rating": 4.5,
           "ingredients": [
             "rice noodles",
             "chicken",
@@ -166,11 +171,11 @@
             "tamarind paste",
             "peanuts"
           ],
-          "method": "1. Soak the rice noodles in warm water for 15 minutes until soft. 2. In a wok or large frying pan, stir-fry the chicken until cooked through. 3. Add the soaked noodles and stir-fry for 1-2 minutes. 4. Add the bean sprouts and stir-fry for another minute. 5. Mix the tamarind paste with some water and add it to the pan, stirring until well combined. 6. Garnish with peanuts and serve hot.",
-          "rating": 4.5
+          "method": "1. Soak the rice noodles in warm water for 15 minutes until soft. 2. In a wok or large frying pan, stir-fry the chicken until cooked through. 3. Add the soaked noodles and stir-fry for 1-2 minutes. 4. Add the bean sprouts and stir-fry for another minute. 5. Mix the tamarind paste with some water and add it to the pan, stirring until well combined. 6. Garnish with peanuts and serve hot."
         },
         {
           "name": "Tom Yum Soup",
+          "rating": 4.5,
           "ingredients": [
             "shrimp",
             "lemongrass",
@@ -178,11 +183,11 @@
             "kaffir lime leaves",
             "chili peppers"
           ],
-          "method": "1. Bring 2 cups of water to a boil in a pot. 2. Add the lemongrass, galangal, and kaffir lime leaves and let simmer for 5 minutes. 3. Add the shrimp and chili peppers and let cook for 2-3 minutes. 4. Serve hot.",
-          "rating": 4.2
+          "method": "1. Bring 2 cups of water to a boil in a pot. 2. Add the lemongrass, galangal, and kaffir lime leaves and let simmer for 5 minutes. 3. Add the shrimp and chili peppers and let cook for 2-3 minutes. 4. Serve hot."
         },
         {
           "name": "Green Curry",
+          "rating": 4.5,
           "ingredients": [
             "chicken",
             "green curry paste",
@@ -190,8 +195,7 @@
             "bamboo shoots",
             "Thai basil"
           ],
-          "method": "1. In a wok or large frying pan, stir-fry the chicken until cooked through. 2. Add the green curry paste and stir-fry for another minute. 3. Pour in the coconut milk and let simmer for 5 minutes. 4. Add the bamboo shoots and Thai basil and let simmer for another 2-3 minutes. 5. Serve hot with rice.",
-          "rating": 4.7
+          "method": "1. In a wok or large frying pan, stir-fry the chicken until cooked through. 2. Add the green curry paste and stir-fry for another minute. 3. Pour in the coconut milk and let simmer for 5 minutes. 4. Add the bamboo shoots and Thai basil and let simmer for another 2-3 minutes. 5. Serve hot with rice."
         }
       ]
     },
@@ -199,15 +203,17 @@
     {
       "id": 5,
       "chefName": "Somsri Wongthanon",
-      "chefPhoto": "https://i.ibb.co/6R5DvSS/chef-1.jpg",
+      "chefPhoto": "https://i.ibb.co/6vjCX9m/chef-2.jpg",
       "bio": "Somsri Wongthanon is a renowned Thai chef with over 20 years of experience in traditional Thai cuisine. Her passion for cooking has led her to create unique and flavorful dishes that have been praised by food critics and enthusiasts alike.",
       "yearOfExperience": 20,
       "numRecipes": 3,
       "price": 14.99,
+      "like": 300,
       "recipePhoto": "https://i.ibb.co/q5MZ9Mn/food-1.jpg",
       "recipe": [
         {
           "name": "Pad Thai",
+          "rating": 4.5,
           "ingredients": [
             "rice noodles",
             "chicken",
@@ -215,11 +221,11 @@
             "tamarind paste",
             "peanuts"
           ],
-          "method": "1. Soak the rice noodles in warm water for 15 minutes until soft. 2. In a wok or large frying pan, stir-fry the chicken until cooked through. 3. Add the soaked noodles and stir-fry for 1-2 minutes. 4. Add the bean sprouts and stir-fry for another minute. 5. Mix the tamarind paste with some water and add it to the pan, stirring until well combined. 6. Garnish with peanuts and serve hot.",
-          "rating": 4.5
+          "method": "1. Soak the rice noodles in warm water for 15 minutes until soft. 2. In a wok or large frying pan, stir-fry the chicken until cooked through. 3. Add the soaked noodles and stir-fry for 1-2 minutes. 4. Add the bean sprouts and stir-fry for another minute. 5. Mix the tamarind paste with some water and add it to the pan, stirring until well combined. 6. Garnish with peanuts and serve hot."
         },
         {
           "name": "Tom Yum Soup",
+          "rating": 4.5,
           "ingredients": [
             "shrimp",
             "lemongrass",
@@ -227,11 +233,11 @@
             "kaffir lime leaves",
             "chili peppers"
           ],
-          "method": "1. Bring 2 cups of water to a boil in a pot. 2. Add the lemongrass, galangal, and kaffir lime leaves and let simmer for 5 minutes. 3. Add the shrimp and chili peppers and let cook for 2-3 minutes. 4. Serve hot.",
-          "rating": 4.2
+          "method": "1. Bring 2 cups of water to a boil in a pot. 2. Add the lemongrass, galangal, and kaffir lime leaves and let simmer for 5 minutes. 3. Add the shrimp and chili peppers and let cook for 2-3 minutes. 4. Serve hot."
         },
         {
           "name": "Green Curry",
+          "rating": 4.5,
           "ingredients": [
             "chicken",
             "green curry paste",
@@ -239,8 +245,7 @@
             "bamboo shoots",
             "Thai basil"
           ],
-          "method": "1. In a wok or large frying pan, stir-fry the chicken until cooked through. 2. Add the green curry paste and stir-fry for another minute. 3. Pour in the coconut milk and let simmer for 5 minutes. 4. Add the bamboo shoots and Thai basil and let simmer for another 2-3 minutes. 5. Serve hot with rice.",
-          "rating": 4.7
+          "method": "1. In a wok or large frying pan, stir-fry the chicken until cooked through. 2. Add the green curry paste and stir-fry for another minute. 3. Pour in the coconut milk and let simmer for 5 minutes. 4. Add the bamboo shoots and Thai basil and let simmer for another 2-3 minutes. 5. Serve hot with rice."
         }
       ]
     },
@@ -253,10 +258,12 @@
       "yearOfExperience": 20,
       "numRecipes": 3,
       "price": 14.99,
+      "like": 300,
       "recipePhoto": "https://i.ibb.co/q5MZ9Mn/food-1.jpg",
       "recipe": [
         {
           "name": "Pad Thai",
+          "rating": 4.5,
           "ingredients": [
             "rice noodles",
             "chicken",
@@ -264,11 +271,11 @@
             "tamarind paste",
             "peanuts"
           ],
-          "method": "1. Soak the rice noodles in warm water for 15 minutes until soft. 2. In a wok or large frying pan, stir-fry the chicken until cooked through. 3. Add the soaked noodles and stir-fry for 1-2 minutes. 4. Add the bean sprouts and stir-fry for another minute. 5. Mix the tamarind paste with some water and add it to the pan, stirring until well combined. 6. Garnish with peanuts and serve hot.",
-          "rating": 4.5
+          "method": "1. Soak the rice noodles in warm water for 15 minutes until soft. 2. In a wok or large frying pan, stir-fry the chicken until cooked through. 3. Add the soaked noodles and stir-fry for 1-2 minutes. 4. Add the bean sprouts and stir-fry for another minute. 5. Mix the tamarind paste with some water and add it to the pan, stirring until well combined. 6. Garnish with peanuts and serve hot."          
         },
         {
           "name": "Tom Yum Soup",
+          "rating": 4.5,
           "ingredients": [
             "shrimp",
             "lemongrass",
@@ -276,11 +283,11 @@
             "kaffir lime leaves",
             "chili peppers"
           ],
-          "method": "1. Bring 2 cups of water to a boil in a pot. 2. Add the lemongrass, galangal, and kaffir lime leaves and let simmer for 5 minutes. 3. Add the shrimp and chili peppers and let cook for 2-3 minutes. 4. Serve hot.",
-          "rating": 4.2
+          "method": "1. Bring 2 cups of water to a boil in a pot. 2. Add the lemongrass, galangal, and kaffir lime leaves and let simmer for 5 minutes. 3. Add the shrimp and chili peppers and let cook for 2-3 minutes. 4. Serve hot."        
         },
         {
           "name": "Green Curry",
+          "rating": 4.5,
           "ingredients": [
             "chicken",
             "green curry paste",
@@ -288,8 +295,7 @@
             "bamboo shoots",
             "Thai basil"
           ],
-          "method": "1. In a wok or large frying pan, stir-fry the chicken until cooked through. 2. Add the green curry paste and stir-fry for another minute. 3. Pour in the coconut milk and let simmer for 5 minutes. 4. Add the bamboo shoots and Thai basil and let simmer for another 2-3 minutes. 5. Serve hot with rice.",
-          "rating": 4.7
+          "method": "1. In a wok or large frying pan, stir-fry the chicken until cooked through. 2. Add the green curry paste and stir-fry for another minute. 3. Pour in the coconut milk and let simmer for 5 minutes. 4. Add the bamboo shoots and Thai basil and let simmer for another 2-3 minutes. 5. Serve hot with rice."
         }
       ]
     }  
